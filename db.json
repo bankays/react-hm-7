@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Abdurahim",
+      "username": "Abu",
+      "phone": "+999899788777"
+    },
+    {
+      "id": 2,
+      "name": "Abdulloh",
+      "username": "Abudulayev",
+      "phone": "999899788772"
+    },
+    {
+      "id": 3,
+      "name": "Jhon",
+      "username": "Doe",
+      "phone": "999899788799"
+    },
+    {
+      "id": 4,
+      "name": "bruec",
+      "username": "Kara",
+      "phone": "998900900090"
+    },
+    {
+      "id": 5,
+      "name": "Data",
+      "username": "Base",
+      "phone": "99849541289"
+    },
+    {
+      "id": 6,
+      "name": " Duck",
+      "username": "duckov",
+      "phone": "998384780"
+    },
+    {
+      "id": 7,
+      "name": "lee",
+      "username": "Leevov",
+      "phone": "9989787878"
+    },
+    {
+      "id": 8,
+      "name": "volka",
+      "username": "volkov",
+      "phone": "9989777676"
+    },
+    {
+      "id": 9,
+      "name": " Richert",
+      "username": "Richertov",
+      "phone": "(775)976-6794 x41206"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "phone": "024-648-3804"
+    }
+  ]
+}
